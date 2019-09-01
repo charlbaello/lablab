@@ -43,6 +43,9 @@
 				<li><a href="R2.php"><h3>Reflection 2</h3></a></li>
 				<li><a href="R3.php"><h3>Reflection 3</h3></a></li>
 				<li><a href="R4.php"><h3>Reflection 4</h3></a></li>
+				<li><a href="R5.php"><h3>Reflection 5</h3></a></li>
+				<li><a href="R6.php"><h3>Reflection 6</h3></a></li>
+				<li><a href="R7.php"><h3>Reflection 7</h3></a></li>
 				<li><a href="Q1.php"><h3>Quiz 1</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
