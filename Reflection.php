@@ -39,11 +39,11 @@
 			
 			<ul>
 				</br>
-				<li><a href="R1.php"><h3>R1</h3></a></li>
-				<li><a href="R2.php"><h3>R2</h3></a></li>
-				<li><a href="R3.php"><h3>R3</h3></a></li>
-				<li><a href="R4.php"><h3>R4</h3></a></li>
-				<li><a href="Q1.php"><h3>Q1</h3></a></li>
+				<li><a href="R1.php"><h3>Reflection 1</h3></a></li>
+				<li><a href="R2.php"><h3>Reflection 2</h3></a></li>
+				<li><a href="R3.php"><h3>Reflection 3</h3></a></li>
+				<li><a href="R4.php"><h3>Reflection 4</h3></a></li>
+				<li><a href="Q1.php"><h3>Quiz 1</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
 			</ul>	
