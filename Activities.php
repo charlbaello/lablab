@@ -47,6 +47,9 @@
 				<li><a href="Activity3.php"><h3>Activity 3</h3></a></li>
 				<li><a href="Activity4.php"><h3>Activity 4</h3></a></li>
 				<li><a href="Activity5.php"><h3>Activity 5</h3></a></li>
+				<li><a href="Activity6.php"><h3>Activity 6</h3></a></li>
+				<li><a href="Activity7.php"><h3>Activity 7</h3></a></li>
+				<li><a href="Activity8.php"><h3>Activity 8</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
 			</ul>	
