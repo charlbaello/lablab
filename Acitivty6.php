@@ -34,7 +34,7 @@
 <div class="row welcome text-center">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 6</h1></br></br></p>
+		<p class="lead"> </br><h1>Activity6</h1></br></br></p>
 				</br>
 			<p></br>Personas</br>
 </br>Anon</br>
