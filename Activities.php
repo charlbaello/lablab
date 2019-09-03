@@ -21,10 +21,10 @@
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a class="nav-link" href="index.html">Home</a>
+				<a class="nav-link" href="index.php">Home</a>
 			</li>
 			<li class="nav-item active">
-				<a class="nav-link" href="About me.html">About</a>
+				<a class="nav-link" href="About me.php">About</a>
 			</li>
 	</div>
 </div>
@@ -42,16 +42,16 @@
 			
 			<ul>
 				</br>
-				<li><a href="Activity1.html"><h3>Activity 1</h3></a></li>
-				<li><a href="Activity2.html"><h3>Activity 2</h3></a></li>
-				<li><a href="Activity3.html"><h3>Activity 3</h3></a></li>
-				<li><a href="Activity4.html"><h3>Activity 4</h3></a></li>
-				<li><a href="Activity5.html"><h3>Activity 5</h3></a></li>
-				<li><a href="Activity6.html"><h3>Activity 6</h3></a></li>
-				<li><a href="Activity7.html"><h3>Activity 7</h3></a></li>
-				<li><a href="Activity8.html"><h3>Activity 8</h3></a></li>
+				<li><a href="Activity1.php"><h3>Activity 1</h3></a></li>
+				<li><a href="Activity2.php"><h3>Activity 2</h3></a></li>
+				<li><a href="Activity3.php"><h3>Activity 3</h3></a></li>
+				<li><a href="Activity4.php"><h3>Activity 4</h3></a></li>
+				<li><a href="Activity5.php"><h3>Activity 5</h3></a></li>
+				<li><a href="Activity6.php"><h3>Activity 6</h3></a></li>
+				<li><a href="Activity7.php"><h3>Activity 7</h3></a></li>
+				<li><a href="Activity8.php"><h3>Activity 8</h3></a></li>
 				</br></br>
-				<li><a href="index.html"><h3>GO BACK</h3></a></li>
+				<li><a href="index.php"><h3>GO BACK</h3></a></li>
 			</ul>	
 	</div>
 </header>
