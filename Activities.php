@@ -50,6 +50,7 @@
 				<li><a href="Activity6.php"><h3>Activity 6</h3></a></li>
 				<li><a href="Activity7.php"><h3>Activity 7</h3></a></li>
 				<li><a href="Activity8.php"><h3>Activity 8</h3></a></li>
+				<li><a href="Activity9.php"><h3>Activity 9</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
 			</ul>	
