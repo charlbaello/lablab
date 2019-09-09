@@ -48,7 +48,7 @@
 				<li><a href="Activity 4.php"><h3>A4: Need Finding</h3></a></li>
 				<li><a href="Activity 5.php"><h3>A5: Prototype - Registration and Login Forms</h3></a></li>
 				<li><a href="Activity 6.php"><h3>A6: Persona</h3></a></li>
-				<li><a hrefActivity 7.php"><h3>A7: Information Design</h3></a></li>
+				<li><a href="Activity 7.php"><h3>A7: Information Design</h3></a></li>
 				<li><a href="Activity 8.php"><h3>A8: Grid layout Design</h3></a></li>
 				<li><a href="Activity9.php"><h3>Activity 9</h3></a></li>
 				</br></br>
