@@ -43,13 +43,13 @@
 			<ul>
 				</br>
 				<li><a href="Activity 1.php"><h3>A1: Introduction & Accounts Creation</h3></a></li>
-				<li><a href="A2: Tell Me About Your Favorite Application.php"><h3>Activity 2</h3></a></li>
-				<li><a href="A3: How would you design an interface for a 1000 floor elevator?.php"><h3>Activity 3</h3></a></li>
-				<li><a href="A4: Need Finding.php"><h3>Activity 4</h3></a></li>
-				<li><a href="A5: Prototype - Registration and Login Forms.php"><h3>Activity 5</h3></a></li>
-				<li><a href="A6: Persona.php"><h3>Activity 6</h3></a></li>
-				<li><a href="A7: Information Design.php"><h3>Activity 7</h3></a></li>
-				<li><a href="A8: Grid layout Design.php"><h3>Activity 8</h3></a></li>
+				<li><a href="Activity 2.php"><h3>A2: Tell Me About Your Favorite Application</h3></a></li>
+				<li><a href="Activity 3.php"><h3>A3: How would you design an interface for a 1000 floor elevator?</h3></a></li>
+				<li><a href="Activity 4.php"><h3>A4: Need Finding</h3></a></li>
+				<li><a href="Activity 5.php"><h3>A5: Prototype - Registration and Login Forms</h3></a></li>
+				<li><a href="Activity 6.php"><h3>A6: Persona</h3></a></li>
+				<li><a hrefActivity 7.php"><h3>A7: Information Design</h3></a></li>
+				<li><a href="Activity 8.php"><h3>A8: Grid layout Design</h3></a></li>
 				<li><a href="Activity9.php"><h3>Activity 9</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
