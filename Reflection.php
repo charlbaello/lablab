@@ -39,12 +39,12 @@
 			
 			<ul>
 				</br>
-				<li><a href="R1.php"><h3>Reflection 1</h3></a></li>
-				<li><a href="R2.php"><h3>Reflection 2</h3></a></li>
-				<li><a href="R3.php"><h3>Reflection 3</h3></a></li>
-				<li><a href="R4.php"><h3>Reflection 4</h3></a></li>
-				<li><a href="R5.php"><h3>Reflection 5</h3></a></li>
-				<li><a href="R6.php"><h3>Reflection 6</h3></a></li>
+				<li><a href="R1.php"><h3>R1: First Week of USERDES</h3></a></li>
+				<li><a href="R2.php"><h3>R2: Need Finding and Paper Prototyping</h3></a></li>
+				<li><a href="R3.php"><h3>R3: First Web Application using Github and Heroku</h3></a></li>
+				<li><a href="R4.php"><h3>R4: Userinyerface - Worst UI Practice</h3></a></li>
+				<li><a href="R5.php"><h3>R5: SOCIT Fest</h3></a></li>
+				<li><a href="R6.php"><h3>R6: First Half of USERDES</h3></a></li>
 				<li><a href="R7.php"><h3>Reflection 7</h3></a></li>
 				<li><a href="Q1.php"><h3>Quiz 1</h3></a></li>
 				</br></br>
