@@ -42,7 +42,7 @@
 			
 			<ul>
 				</br>
-				<li><a href="A1: Introduction & Accounts Creation.php"><h3>Activity 1</h3></a></li>
+				<li><a href="A1: Introduction & Accounts Creation.php"><h3>A1: Introduction & Accounts Creation</h3></a></li>
 				<li><a href="A2: Tell Me About Your Favorite Application.php"><h3>Activity 2</h3></a></li>
 				<li><a href="A3: How would you design an interface for a 1000 floor elevator?.php"><h3>Activity 3</h3></a></li>
 				<li><a href="A4: Need Finding.php"><h3>Activity 4</h3></a></li>
