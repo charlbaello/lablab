@@ -33,7 +33,7 @@
 
 <!--WELCOME-->
 <div class="container-fluid padding">
-<div class="row welcome text-center">
+<div class="row welcome text-left">
 	<header>
 	<hr>
 	<div class="col-12">
