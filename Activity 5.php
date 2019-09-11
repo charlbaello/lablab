@@ -85,6 +85,6 @@
 	</div>
 </div>
 </div>
-
+<li><a href="Activities.php"><h3>GO BACK</h3></a></li
 	
 </html>
