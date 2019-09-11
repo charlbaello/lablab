@@ -42,6 +42,6 @@ In paper prototyping, Ms., Jen gave us an activity last Thursday about the inter
 	</div>
 </div>
 </div>
-
+<li><a href="Activities.php"><h3>GO BACK</h3></a></li
 	
 </html>
