@@ -33,7 +33,6 @@
 <div class="container-fluid padding">
 <div class="row welcome text-left">
 <hr>
-	<font>12</font>
 <p class="lead"> </br><h1>Reflection 2</h1></br></br></p>
 <p>
 		</br><h2>Reflection – Needed Finding and Paper Prototyping<h2></br></br>
