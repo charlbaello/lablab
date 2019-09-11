@@ -58,3 +58,4 @@ To convince the people to attend the party
 	</div>
 </div>
 </div>
+<li><a href="Activities.php"><h3>GO BACK</h3></a></li
