@@ -31,7 +31,7 @@
 </nav>
 <!--WELCOME-->
 <div class="container-fluid padding">
-<div class="row welcome text-center">
+<div class="row welcome text-left">
 <hr>
 <p class="lead"> </br><h1>Reflection 6</h1></br></br></p>
 <p>
