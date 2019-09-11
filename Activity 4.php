@@ -41,17 +41,17 @@
 		<p class="lead"> </br><h1>Activity 4</h1></br></br></p>
 				</br>
 			<p></br>PROBLEM:</br></br>
-</br>The following problems were observed and became the basis of the project, this includes:</br>
-</br>•	Lack of awareness that there is a great number of mistreated animals</br>
-</br>•	people show a great interest in surfing,watching and posting about pets but don't have a isolated platform for them.</br>
-</br>•	insufficient support for animal shelters. </br>
-</br>•	pets are mostly bought not adopted.  </br>
+</br>The following problems were observed and became the basis of the project, this includes:
+</br>•	Lack of awareness that there is a great number of mistreated animals
+</br>•	people show a great interest in surfing,watching and posting about pets but don't have a isolated platform for them.
+</br>•	insufficient support for animal shelters.
+</br>•	pets are mostly bought not adopted.
 
 </br>FOCUS:</br>
-</br>The proposed project mainly focuses on the following:</br>
-</br>•	Advocacy for animal rights.</br>
-</br>•	watching and surfing animals are therapeutic in some ways.</br>
-</br>•	The therepeutic way of waching and surfing animal posts.</br>
+</br>The proposed project mainly focuses on the following:
+</br>•	Advocacy for animal rights.
+</br>•	watching and surfing animals are therapeutic in some ways.
+</br>•	The therepeutic way of waching and surfing animal posts.
 
 </br>SOLUTION:</br>
 </br>To address the stated problems, this project seeks to attain the following: 
