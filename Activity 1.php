@@ -10,6 +10,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="style.css" rel=stylesheet>
+	<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
 </head>
 
 <!-- Navigation Bar-->
