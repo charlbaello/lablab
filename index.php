@@ -58,7 +58,7 @@
 	<div class="carousel-item">
 		<img src="https://images.wallpaperscraft.com/image/lights_light_lighting_117051_1920x1080.jpg">
 		<div class="carousel-caption">
-			<h2 class="display-2">Reflection</h2>
+			<h2 class="display-2">Certification</h2>
 			<h4>Page</h4>
 			<a href="Certification.php" type="button" class="btn btn-outline-light btn-lg">CERTIFICATION</a>
 </div>
