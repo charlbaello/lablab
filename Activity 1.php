@@ -31,7 +31,7 @@
 </div>
 </nav>
 
-<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
+
 
 <!--WELCOME-->
 <div class="container-fluid padding">
@@ -52,5 +52,6 @@ My expectation In this class is to have fun while learning, balance, learn new t
 	</div>
 </div>
 </div>
+<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
 <li><a href="Activities.php"><h3>GO BACK</h3></a></li>
 
