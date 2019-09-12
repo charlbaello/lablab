@@ -18,7 +18,6 @@
 <div class="container-fluid">
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 			<span class="navbar-toggler-icon"></span>
-		<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
 	</button>
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
@@ -32,7 +31,7 @@
 </div>
 </nav>
 
-
+<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
 
 <!--WELCOME-->
 <div class="container-fluid padding">
