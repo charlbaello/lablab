@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<body background="w3s.png">
+	</body>
 	<meta charset="utf-8">
 	<meta name="viewport" content="with=device-with, initial-scale=1">
 	<title>USER DES UI UX</title>
