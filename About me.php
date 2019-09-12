@@ -40,7 +40,7 @@
 	<div class="profile">
 				<img src="https://userdes-baello2.herokuapp.com/charl.png"
 			</div>
-		<p class="lead"> </br><h1>Introudction:</h1></br></br></p>
+		<p class="lead"> </br><h1>Introduction:</h1></br></br></p>
 			<p>I am Charl Alexander A. Baello</br></br>
 			I am a jolly person always wanted to laugh, I'm a risk taker person,
 			</br>My daily hobbies are: </br>Playing Basketball, Guitar and i like to travel a lot.
