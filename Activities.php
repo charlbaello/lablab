@@ -35,7 +35,6 @@
 <div class="container-fluid padding">
 <div class="row welcome text-left">
 	<header>
-	<body background="w3s.png">
 	<hr>
 	<div class="col-12">
 		
@@ -59,6 +58,6 @@
 </header>
 </div>
 </div>
-</body>
+
 	
 
