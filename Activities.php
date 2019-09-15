@@ -9,7 +9,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-	<link href="style.css" rel=stylesheet>
+	<link href="tropicalchill.jpg" rel=stylesheet>
 </head>
 	
 
@@ -36,9 +36,6 @@
 <div class="container-fluid padding">
 <div class="row welcome text-left">
 	<header>
-		background-image: url("tropicalchill.jpg");
-		background-repeat:no-repeat;
-		background-size:cover;
 	<hr>
 	<div class="col-12">
 		
