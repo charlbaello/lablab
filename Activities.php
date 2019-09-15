@@ -11,9 +11,7 @@
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="style.css" rel=stylesheet>
 </head>
-	background-image: url("tropicalchill.jpg");
-		background-repeat:no-repeat;
-		background-size:cover;
+	
 
 <!-- Navigation Bar-->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
@@ -38,6 +36,9 @@
 <div class="container-fluid padding">
 <div class="row welcome text-left">
 	<header>
+		background-image: url("tropicalchill.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
 	<hr>
 	<div class="col-12">
 		
