@@ -11,6 +11,9 @@
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="style.css" rel=stylesheet>
 </head>
+	background-image: url("tropicalchill.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
 
 <!-- Navigation Bar-->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
@@ -39,9 +42,7 @@
 	<div class="col-12">
 		
 		<p class="lead"> </br><h1><strong>Activity Area</strong></h1></br></br> <h2>Click Activity</h2></p>
-		background-image: url("tropicalchill.jpg");
-		background-repeat:no-repeat;
-		background-size:cover;
+		
 			<ul>
 				</br>
 				<li><a href="Activity 1.php"><h3>A1: Introduction & Accounts Creation</h3></a></li>
