@@ -27,6 +27,10 @@
 			<li class="nav-item active">
 				<a class="nav-link" href="About me.php">About</a>
 			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="#">Certifications</a>
+			</li>
+
 		</ul>
 	</div>
 </div>
