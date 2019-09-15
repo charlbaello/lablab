@@ -39,9 +39,9 @@
 	<div class="col-12">
 		
 		<p class="lead"> </br><h1><strong>Activity Area</strong></h1></br></br> <h2>Click Activity</h2></p>
-background-image: url("tropicalchill.jpg");
-background-repeat:no-repeat;
-background-size:cover;
+		background-image: url("tropicalchill.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
 			<ul>
 				</br>
 				<li><a href="Activity 1.php"><h3>A1: Introduction & Accounts Creation</h3></a></li>
