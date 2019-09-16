@@ -38,7 +38,7 @@
 <hr>
 <p class="lead"> </br><h1>Reflection 2</h1></br></br></p>
 <p>
-		</br><h2>Reflection – Needed Finding and Paper Prototyping<h2></br></br>
+		</br><h2>Reflection – Needed Finding and Paper Prototyping</h2></br></br>
 <p>For the second week of the subject, Ms., Jen discussed about the need finding and prototype making. Since we tackled about that topic, I realized that I need more essentials in improving my design and the features on It. In short Ms., Jen make me realized that we should not focus on one solution instead we need to know what is really needed, we can’t shortcut everything doing shortcuts just to fill the holes, It’s like fixing the problem but It’s not sure if it’s 100% fixed. And, for us as the future developers we should observe or ask for feedbacks from the users.
 In paper prototyping, Ms., Jen gave us an activity last Thursday about the interface of our web/app,</br> for me It’s been a while since I worked with many people or big group, I feel like a little excited about the topic and the ideas that my co team mate shares with the group,</br> with this kind of project It will really help me a lot not just to think idea but to face with different persons, shares my idea and their ideas.</br>
 </p>
