@@ -42,6 +42,8 @@
 			<p></br>User Experience for Web Design</br>
 
 <img src="https://i.imgur.com/8rw6chS.png">
+<p></br>UX Foundation Prototyping</br>
+<img src=https://i.imgur.com/9ub7Lh7.png">
 
 </p>
 	</div>
