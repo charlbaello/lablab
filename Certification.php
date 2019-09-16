@@ -41,7 +41,7 @@
 				</br>
 			<p></br>User Experience for Web Design</br>
 
-<img src="Capture.jpg">
+<img src="https://i.imgur.com/8rw6chS.png">
 
 </p>
 	</div>
