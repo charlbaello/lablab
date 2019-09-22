@@ -34,7 +34,7 @@
 </div>
 </nav>
 
-<body background="https://i.imgur.com/FdRxV9d.jpg">
+<body background="https://i.imgur.com/FdRxV9d.jpg" width = "100% height = "100%"/>
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-left">
