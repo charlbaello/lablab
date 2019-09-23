@@ -39,7 +39,7 @@
 	<div class="col-12">
 		<p class="lead"> <h1>Activity 8</h1></p>
 				
-			<p></br>Grid Layout Design</br>
+	<h2>Grid Layout Design</h2>
 
 <img src="https://i.imgur.com/l2vs7gt.jpg">
 
