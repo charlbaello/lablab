@@ -39,8 +39,8 @@
 	<div class="col-12">
 		<p class="lead"> <h1>Activity 7</h1></p>
 			<p>Design An Invitation Letter
-
-•	1.)	How can we improve this?
+<br>
+1.)How can we improve this?
 
 I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
