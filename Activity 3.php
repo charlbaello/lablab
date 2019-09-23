@@ -41,8 +41,8 @@
 <div class="row welcome text-left">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 3</h1></br></br></p>
-				</br>
+		<p class="lead"> <h1>Activity 3</h1></p>
+	
 			<p></br>How would you design an interface for a 1000 floor elevator?</br></br>
 
 </br>First of, my Idea on designing a 1000 floor elevator, is to have a digital press button in which the person who is riding the elevator will simply input their floor number and the elevator will basically bring the user to his desired floor. </br> By solving these issues, we can now proceed to the next concern regarding on designing and interface for a 1000 floor elevator.</br>
