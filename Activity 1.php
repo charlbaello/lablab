@@ -41,9 +41,9 @@
 <div class="row welcome text-left">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 1</h1></br></br></p>
-				</br>
-			<p></br>I’am Good, always excited</br>
+		<p class="lead"> <h1>Activity 1</h1></p>
+				
+			<p>I’am Good, always excited
 </br>I‘am from Taguig City</br>
 
 </br>I am a jolly person always wanted to laugh, I’m a risk taker person, my daily hobbies are.</br> Playing Basketball, Guitar and I like to travel a lot. </br>Sometimes I travel by my self-going to Baguio since It is my birthplace.</br> I really like unexpected adventures, it’s because unexpected always happens, rather than preparing until it become a drawing...</br>
