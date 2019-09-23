@@ -37,9 +37,9 @@
 <div class="row welcome text-left">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity6</h1></br></br></p>
-				</br>
-			<p></br>Personas</br>
+		<p class="lead"> <h1>Activity6</h1></p>
+			
+			<p>>Personas
 </br>Anon</br>
 •	Archetype - The person who love web surfing<br>
 •	Job title - student<br>
