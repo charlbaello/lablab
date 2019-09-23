@@ -39,7 +39,7 @@
 	<div class="col-12">
 		<p class="lead"> <h1>Activity6</h1></p>
 			
-			<p>>Personas
+	<h2>Personas</h2>
 </br>Anon</br>
 •	Archetype - The person who love web surfing<br>
 •	Job title - student<br>
