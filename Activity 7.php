@@ -37,8 +37,7 @@
 <div class="row welcome text-left">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 6</h1></br></br></p>
-				</br>
+		<p class="lead"> <h1>Activity 7</h1></p>
 			<p></br>Design An Invitation Letter</br>
 </br></br>
 •	1.)	How can we improve this?
