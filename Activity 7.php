@@ -38,7 +38,7 @@
 	<hr>
 	<div class="col-12">
 		<p class="lead"> <h1>Activity 7</h1></p>
-			<p>Design An Invitation Letter
+	<h2>Design An Invitation Letter</h2>
 <br>
 1.)How can we improve this?
 
