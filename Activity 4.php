@@ -41,8 +41,8 @@
 <div class="row welcome text-left">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 4</h1></br></br></p>
-				</br>
+		<p class="lead"><h1>Activity 4</h1></p>
+				
 			<p></br>PROBLEM:</br></br>
 </br>The following problems were observed and became the basis of the project, this includes:
 </br>•	Lack of awareness that there is a great number of mistreated animals
