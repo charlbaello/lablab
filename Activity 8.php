@@ -37,8 +37,8 @@
 <div class="row welcome text-center">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 6</h1></br></br></p>
-				</br>
+		<p class="lead"> <h1>Activity 8</h1></p>
+				
 			<p></br>Grid Layout Design</br>
 
 <img src="https://i.imgur.com/l2vs7gt.jpg">
