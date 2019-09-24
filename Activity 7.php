@@ -42,17 +42,16 @@
 <br>
 1.)How can we improve this?
 <br>
-I improve this by doings such a creative things different colors texture and other shapes
+My Answer is: I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
 Highlight the important parts of the text
 <br>
-2.)	What would be the objective function?
-To invite people
-To make them aware that there is a after-dinner party
-To let them attend the party
-To let them be part of the program
-To convince the people to attend the party
-
+2.)What would be the objective function?
+<br>To invite people
+<br>To make them aware that there is a after-dinner party
+<br>To let them attend the party
+<br>To let them be part of the program
+<br>To convince the people to attend the party
 <br>3.)	Create your own design/version of the passage.</br>
 
 <img src="https://i.imgur.com/cy259nQ.jpg">
