@@ -42,7 +42,7 @@
 <br>
 1.)How can we improve this?
 <br>
-	<h3>My Answer is:</h3> I improve this by doings such a creative things different colors texture and other shapes
+My Answer is: I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
 Highlight the important parts of the text
 <br>
@@ -55,6 +55,7 @@ Highlight the important parts of the text
 <br>3.)	Create your own design/version of the passage.</br>
 
 <img src="https://i.imgur.com/cy259nQ.jpg">
+This is the actual Invitation Letter.
 </p>
 	</div>
 </div>
