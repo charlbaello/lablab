@@ -42,7 +42,6 @@
 <p></br><h2>User Experience for Web Design</h2></br>
 <p style="text-align:center;">September 19,2019</p>
 <img src="https://i.imgur.com/8rw6chS.png">
---------------------------------------------------------------------------------------------------
 <p></br><h2>UX Foundation Prototyping</h2></br>
 <p style="text-align:center;">September 16,2019</p>
 <img src="https://i.imgur.com/9ub7Lh7.png">
