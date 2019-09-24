@@ -48,6 +48,16 @@
 <p></br><h2>Invision for UX design</h2></br>
 <p style="text-align:center;">September 16,2019</p>
 <img src="https://i.imgur.com/fMrx68K.png">
+<p></br><h2>Python Basic for Java Developers</h2></br>
+<p style="text-align:center;">January 30,2019</p>
+<img src="blob:https://imgur.com/8b766268-3496-478c-a064-a446a7dbd11a">
+<p></br><h2>Managing Your Time</h2></br>
+<p style="text-align:center;">January 30,2019</p>
+<img src="https://i.imgur.com/Cyyo4Db.png">
+<p></br><h2>Body Language For Leaders(2015)</h2></br>
+<p style="text-align:center;">June 10,2018</p>
+<img src="https://i.imgur.com/gVW4Rak.png">
+
 
 </p>
 	</div>
