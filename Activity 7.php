@@ -42,7 +42,7 @@
 <br>
 1.)How can we improve this?
 <br>
-My Answer is: I improve this by doings such a creative things different colors texture and other shapes
+	<h3>My Answer is:</h3> I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
 Highlight the important parts of the text
 <br>
