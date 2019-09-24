@@ -54,8 +54,7 @@ Highlight the important parts of the text
 <br>To convince the people to attend the party
 <br>3.)	Create your own design/version of the passage.</br>
 
-<br><img src="https://i.imgur.com/cy259nQ.jpg">
-This is the actual Invitation Letter.
+<img src="https://i.imgur.com/cy259nQ.jpg">
 </p>
 	</div>
 </div>
