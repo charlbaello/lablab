@@ -40,19 +40,19 @@
 		<p class="lead"> <h1>Activity 7</h1></p>
 	<h2>Design An Invitation Letter</h2>
 <br>
-1.)How can we improve this?
+<h3>1.)How can we improve this?</h3>
 <br>
 My Answer is: I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
 Highlight the important parts of the text
 <br>
-2.)What would be the objective function?
+<h3>2.)What would be the objective function?</h3
 <br>To invite people
 <br>To make them aware that there is a after-dinner party
 <br>To let them attend the party
 <br>To let them be part of the program
 <br>To convince the people to attend the party
-<br>3.)	Create your own design/version of the passage.</br>
+<br><h3>3.)Create your own design/version of the passage.</h3></br>
 
 <img src="https://i.imgur.com/cy259nQ.jpg">
 </p>
