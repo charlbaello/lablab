@@ -30,6 +30,9 @@
 			<li class="nav-item active">
 				<a class="nav-link" href="Certification.php">Certifications</a>
 			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="#">Resources</a>
+			</li>
 
 		</ul>
 	</div>
