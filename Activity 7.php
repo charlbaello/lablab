@@ -41,11 +41,11 @@
 	<h2>Design An Invitation Letter</h2>
 <br>
 1.)How can we improve this?
-
+<br>
 I improve this by doings such a creative things different colors texture and other shapes
 I fixed first the text by arranging it to be grammar correct
 Highlight the important parts of the text
-
+<br>
 2.)	What would be the objective function?
 To invite people
 To make them aware that there is a after-dinner party
