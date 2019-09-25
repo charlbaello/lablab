@@ -54,7 +54,7 @@
 				<li><a href="Activity 6.php"><h3>A6: Persona</h3></a></li>
 				<li><a href="Activity 7.php"><h3>A7: Information Design</h3></a></li>
 				<li><a href="Activity 8.php"><h3>A8: Grid layout Design</h3></a></li>
-				<li><a href="Activity9.php"><h3>Activity 9</h3></a></li>
+				<li><a href="Activity 9.php"><h3>12 Column Grid Layout Design</h3></a></li>
 				</br></br>
 				<li><a href="index.php"><h3>GO BACK</h3></a></li>
 			</ul>	
