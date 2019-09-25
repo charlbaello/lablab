@@ -54,7 +54,7 @@ Highlight the important parts of the text
 <br>To convince the people to attend the party
 <br><h3>3.)Create your own design/version of the passage.</h3></br>
 
-<img src="https://i.imgur.com/cy259nQ.jpg">
+<img src="https://i.imgur.com/LXkjSc8.png">
 <img src="https://i.imgur.com/cy259nQ.jpg">
 
 </p>
