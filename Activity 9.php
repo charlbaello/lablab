@@ -32,7 +32,7 @@
 	</div>
 </div>
 </nav>
-<body background="https://i.imgur.com/FdRxV9d.jpg">
+<body background="https://i.imgur.com/LzLQ1MQ.jpg">
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
