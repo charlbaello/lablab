@@ -55,6 +55,8 @@ Highlight the important parts of the text
 <br><h3>3.)Create your own design/version of the passage.</h3></br>
 
 <img src="https://i.imgur.com/cy259nQ.jpg">
+<img src="https://i.imgur.com/cy259nQ.jpg">
+
 </p>
 	</div>
 </div>
