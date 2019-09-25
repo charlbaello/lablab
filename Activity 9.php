@@ -63,7 +63,7 @@
             <pre>
             12x4 layout 5				12x4 layout 6				12x4 layout 7				12x4 layout 8
             </pre>
-            <img class="myImg" src="https://i.imgur.com/Jc8uCcp.png" alt="12x4 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
+            <img class="myImg" src="https://i.imgur.com/GKsOwup.png" alt="12x4 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
             <img class="myImg" src="https://i.imgur.com/qQd2tMI.png" alt="12x4 layout 10" style="width:100%;max-width:300px;padding-bottom: 10px">
             <img class="myImg" src="https://i.imgur.com/QAe0jff.png" alt="12x4 layout 11" style="width:100%;max-width:300px;padding-bottom: 10px">
             <img class="myImg" src="https://i.imgur.com/D3Qed59.png" alt="12x4 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
