@@ -59,7 +59,7 @@
             <img class="myImg" src="https://i.imgur.com/KqjtLAI.png" alt="12x4 layout 5" style="width:100%;max-width:300px;padding-bottom: 10px">
             <img class="myImg" src="https://i.imgur.com/qdXKlKd.png" alt="12x4 layout 6" style="width:100%;max-width:300px;padding-bottom: 10px">
             <img class="myImg" src="https://i.imgur.com/oZoA9D6.png" alt="12x4 layout 7" style="width:100%;max-width:300px;padding-bottom: 10px">
-            <img class="myImg" src="https://i.imgur.com/nTpPnN8.png" alt="12x4 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+            <img class="myImg" src="https://i.imgur.com/m8p7p7A.png" alt="12x4 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
             <pre>
             12x4 layout 5				12x4 layout 6				12x4 layout 7				12x4 layout 8
             </pre>
