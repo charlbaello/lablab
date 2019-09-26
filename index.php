@@ -39,7 +39,7 @@
 			</li>
 			</li>
 			<li class="nav-item active">
-				<a class="nav-link" href="Reflections.php">Reflections</a>
+				<a class="nav-link" href="Reflection.php">Reflections</a>
 			</li>
 
 		</ul>
