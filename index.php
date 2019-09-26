@@ -21,18 +21,6 @@
 	</button>
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
-			<li class="nav-item active">
-				<a class="nav-link" href="index.php">Home</a>
-			</li>
-			<li class="nav-item active">
-				<a class="nav-link" href="About me.php">About</a>
-			</li>
-			<li class="nav-item active">
-				<a class="nav-link" href="Certification.php">Certifications</a>
-			</li>
-			<li class="nav-item active">
-				<a class="nav-link" href="#">Resources</a>
-			</li>
 			</li>
 			<li class="nav-item active">
 				<a class="nav-link" href="Activities.php">Activities</a>
@@ -41,7 +29,14 @@
 			<li class="nav-item active">
 				<a class="nav-link" href="Reflection.php">Reflections</a>
 			</li>
-
+			<li class="nav-item active">
+				<a class="nav-link" href="index.php">Home</a>
+			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="About me.php">About</a>
+			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="Certification.php">Certifications</a>
 		</ul>
 	</div>
 </div>
