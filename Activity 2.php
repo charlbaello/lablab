@@ -32,10 +32,8 @@
 			</li>
 	</div>
 </div>
+<body background="https://i.imgur.com/LzLQ1MQ.jpg">
 </nav>
-
-
-
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-left">
