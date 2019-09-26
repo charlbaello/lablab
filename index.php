@@ -49,17 +49,13 @@
 	<div class="carousel-item active">
 		<img src="https://atgbcentral.com/data/out/36/4210874-lights-wallpaper.jpg">
 		<div class="carousel-caption">
-			<h2 class="display-2">Activity</h2>
-			<h4>Page</h4>
-			<a href="Activities.php" type="button" class="btn btn-outline-light btn-lg">ACTIVITIES</a>
+			
 		</div>
 	</div>
 	<div class="carousel-item">
 		<img src="https://images.wallpaperscraft.com/image/lights_light_lighting_117051_1920x1080.jpg">
 		<div class="carousel-caption">
-			<h2 class="display-2">Reflection</h2>
-			<h4>Page</h4>
-			<a href="Reflection.php" type="button" class="btn btn-outline-light btn-lg">REFLECTIONS</a>
+			
 		</div>
 	</div>
 </div>
