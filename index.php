@@ -33,6 +33,14 @@
 			<li class="nav-item active">
 				<a class="nav-link" href="#">Resources</a>
 			</li>
+			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="Activities.php">Activities</a>
+			</li>
+			</li>
+			<li class="nav-item active">
+				<a class="nav-link" href="Reflections.php">Reflections</a>
+			</li>
 
 		</ul>
 	</div>
