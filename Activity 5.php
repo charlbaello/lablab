@@ -38,8 +38,7 @@
 				<a class="nav-link" href="Certification.php">Certification</a>
 			</li>
 	</div>
-</div>
-<body background="https://i.imgur.com/LzLQ1MQ.jpg">	
+</div>	
 </nav>
 <!--WELCOME-->
 <div class="container-fluid padding">
